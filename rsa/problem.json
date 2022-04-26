@@ -1,0 +1,10 @@
+{
+  "name": "Respect Shamir's Authority",
+  "category": "Cryptography",
+  "description": "You might want to respect Shamir's authority.",
+  "score" : 200,
+  "hints": [],
+  "author": "TEAM: Justin Cabral, Jon Duran, Brian McKay, Ilir Zela",
+  "organization": "WPI",
+  "event": "Project 3"
+}
